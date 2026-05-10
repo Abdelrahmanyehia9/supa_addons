@@ -1,0 +1,15 @@
+include: package:flutter_lints/flutter.yaml
+
+analyzer:
+  errors:
+    unused_import: warning # Show warning for unused imports
+    dead_code: warning # Warn about unreachable code
+    unused_local_variable: warning # Warn about unused variables
+
+linter:
+  rules:
+    prefer_const_constructors: true
+    prefer_const_literals_to_create_immutables: true
+    avoid_redundant_argument_values: true
+    avoid_print: true
+    always_use_package_imports: true
