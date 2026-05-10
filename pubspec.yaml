@@ -1,6 +1,6 @@
 name: supa_addons
 description: "A Flutter package that extends Supabase with crash reporting, push notifications, and remote config — production-ready and wired to your Supabase project out of the box."
-version: 0.0.1
+version: 0.0.2
 homepage:  https://github.com/Abdelrahmanyehia9/supa_addons.git
 
 environment:
